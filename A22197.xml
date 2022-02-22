@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of the Kings Maiesties letters vnder his signet directed to the right honorable His Maiesties iudges of assize, the right worshipfull His Maiesties high sheriffs, maiors, and iustices of peace, and to all bayliffes, chiefe constables, and all other His Maiesties officers and louing subiects aswell spirituall as temporal ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22197</idno>
+            <idno type="STC">STC 8602</idno>
+            <idno type="STC">ESTC S3883</idno>
+            <idno type="EEBO-CITATION">33151126</idno>
+            <idno type="OCLC">ocm 33151126</idno>
+            <idno type="VID">28943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:108)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of the Kings Maiesties letters vnder his signet directed to the right honorable His Maiesties iudges of assize, the right worshipfull His Maiesties high sheriffs, maiors, and iustices of peace, and to all bayliffes, chiefe constables, and all other His Maiesties officers and louing subiects aswell spirituall as temporal ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Purfoot,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1619]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cover letter followed by brief for 1-year collections in place not previously solicited, for dredging the Fosse Dike in Lincoln. Mentions previous brief of 12 July 1617.</note>
+                  <note>"Witnes our selfe at Westminster the nyneteenth day of February, in the Sixteenth yeare of our Raigne of England, France, and Ireland, and of Scotland the Two &amp; Fiftieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fosse Dike (Lincolnshire, England)</term>
+               <term>Lincolnshire (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:28943:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>English royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other; the embellishment surrounding the blazon includes the Tudor rose, French fleur-de-lis, Scottish thistle, and Irish harp, all surmounted by crowns</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> The Copie of the Kings Maieſties Letters vnder his Signet, directed to the Right Honorable his <hi>Maieſties Iudges of Aſsize: the right Worſhipfull his Maieſties High Sheriffs, Maiors, and Iuſtices of Peace: And to all Bayliffes, chiefe Conſtables,</hi> and all other his Maieſties Officers and louing Subiects aſwell Spirituall as Temporall, within his Highnes ſeuerall Counties, Corporations, and priuiledged places within his <hi>Maieſties</hi> Realme of England.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">T</seg>Ruſty and wel-beloued Wee greet you well:</salute>
+            </opener>
+            <p>Whereas We haue beene already pleaſed at the humble ſuit of the Maior &amp; Citizens of our City of <hi>Lincolne,</hi> to grant vnto them licenſe, aſwel by our Letters Patents vnder our great Seale of <hi>England,</hi> as by our ſpeciall Letters vnder our Signe Manuall, to leuie moneys by way of Col<g ref="char:EOLhyphen"/>lections, in ſundry our Shires, for the ſcowring &amp; making navigable of an ancient water-courſe called <hi>Foſſe Dike,</hi> neere vnto our ſaid Citty, whereby trade &amp; co<g ref="char:cmbAbbrStroke">̄</g>merce may be drawne to our ſaid poore decayed Citty to the enriching therof, and of all the parts therunto adioyning. Wherupon ſome of thoſe Counties, and particular perſons vnto whom we addreſſed our Letters, haue (to our great contentment) freely and liberally contributed therunto. Foraſmuch as the worke is now well ad<g ref="char:EOLhyphen"/>uanced, and that the moneys already collected (though carefully managed and employed to the beſt aduantage) will nothing neere counteruaile the charge thereof, as we are informed by our right truſty &amp; right wel-beloued Coſen the Earle of <hi>Rutland,</hi> and diuers other perſonages of qualite of thoſe parts. Wee hauing euer beene pleaſed to vouchſafe our Princely furtherance to publike workes, and more eſpecially to this, to which we gaue beginning, and therfore cannot now but cheriſh the Progreſſe, &amp; much tender the perfection therof, haue thought good to direct theſe our ſpeciall Letters to you &amp; euery of you reſpectiuely, requiring you that at the next Aſſizes to be held within your ſeue<g ref="char:EOLhyphen"/>rall Circuits in our ſeuerall Counties, you our Iuſtices of Aſſize doe deale effectually with the High Sheriffes &amp; Iuſtices of the Peace in each our ſaid Counties, not only themſelues to contribute liberally to ſo worthy a worke, but by their examples &amp; beſt endeauours to excite the Gentry &amp; all other louing Subiects throughout all Citties, Corporations, priui<g ref="char:EOLhyphen"/>ledged &amp; other places within our ſaid ſeuerall Counties, freely to extend their bounty to the finiſhing o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame. And further our pleaſure is, becauſe we would haue you put a dif<g ref="char:EOLhyphen"/>ference betwene theſe our Letters Patents which this bearer will ſhew you, and ſuch Briefes as are ordinarily granted for loſſe by fire &amp; other caſualties, that you our High Sheriffes and Iuſtices of the Peace of the ſaid ſeuerall Counties, doe not onely take ſuch courſe as in your diſcretions you ſhall thinke fit for the raiſing of thoſe moneys to ſome proportion anſwerable to our expectation, &amp; the greatnes of the worke, but alſo giue order to all the Conſtables, Headboroughs, &amp; other our inferior Officers &amp; Miniſters in your Precincts, for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſpeedy leuying of the ſaid contributions to the beſt eaſe &amp; benefit of the ſaid Cittizens; And likewiſe that the money ſo leuyed, be deliuered to <hi>Robert Morecroft</hi> Alderman of our Citty of <hi>Lincolne,</hi> or his Deputy or Deputies, of whom we expect particular accompt of the ſame. And laſtly, we expect your and euerie of your beſt care &amp; diligence in this buſineſſe, the ſucceſſe wherof we much affect, and will not faile to retaine a gratious remembrance of what futherance ſoeuer we ſhall vnderſtand you haue giuen it.</p>
+            <div type="text_of_letters_patent">
+               <opener>
+                  <signed>
+                     <hi>
+                        <seg rend="decorInit">I</seg>AMES,</hi> By the Grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed> 
+                  <salute>To all and ſinguler Archbiſhops, Biſhops, Archdeacons, Deanes, and their Officials: Parſons, Vicars, Curats, and to all ſpirituall perſons: And alſo to all Iuſtices of Peace, Maiors, Sheriffes, Bayliffes, Conſtables, Churchwardens, &amp; Headboroughs: And to all Officers of Citties, Boroughs, and Townes corporate: And to all other our Officers Miniſters, &amp; Subiects whatſoeuer they bèe, aſwell within Liberties as without, to whom theſe preſents ſhall come, grèeting.</salute>
+               </opener>
+               <p>WHEREAS Wee haue héertofore been truely certified aſwell by diuers Petitions exhibited vnto Vs by our true &amp; Loyall Subiects the Maior &amp; Citizens of our poore decayed Citty of <hi>Lincolne,</hi> as alſo by a Certificate from our right truſty &amp; wel-beloued Coſen <hi>Francis</hi> Earle of <hi>Rutland,</hi> and diuers others Knights Baronets, Knights, &amp; Eſquiors, Iuſtices of the Peace within our County of <hi>Lincolne:</hi> That it was a thing moſt néedfull, conuenient &amp; commodious, for to open, ſcowre &amp; clenſe the old Draine <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> called <hi>Foſſe,</hi> firſt made by our Noble Progenitor <hi>Henry</hi> the firſt, for the bringing of trafficke &amp; Marchandize to our ſayd Citty, the which now is ſtopped vp &amp; not nauigable for veſſe;ls of any burthen, wherby our ſaid Citty is much impoueriſhed, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated a decayed, and become ſo poore for want of trading there againe, as vnleſſe the ſame be foorthwith reſtored and continued, that ancient Citty in ſhort time is like to be utterly ſubuerted &amp; ouerthrowne. Vpon conſideration whereof, wee did héertofore in our Princely care for the good of our ſaid Citty and futherance of this worthy &amp; commendable act, give order to the Lords of our Priuy Counſell to ſend their Letters to the Nobility &amp; Gentry of our ſaid County of <hi>Lincolne,</hi> for the collecting &amp; gathering of ſuch ſums of money within the ſaid County as then was thought fit, towards the opening &amp; ſcowring of the ſaid Draine, but finding the charge of the worke to be far greater then could bée rayſed in that manner, the ſame beeing eſtimated by men experienced in thoſe affayres, to amount to the Sum of Thrée Thouſand Pounds, Wée then ſent our own Letters vnder our Priuy Signet, to the Nobility &amp; Gentry within our Counties of <hi>Yorke,</hi> &amp; <hi>Nottingham,</hi> for like contrbution to be made on this behalfe: After all which the ſaid Citty being in y<hi rend="sup">e</hi> way of our Progreſſe towards <hi>Scotland,</hi> Our ſelfe was an Eye-witneſſe of the ruynes &amp; decayes therof, and being then more fully enformed &amp; aſſured of the vn<g ref="char:EOLhyphen"/>doubted benefit which by this good worke was likely to redound, aſwell to the Citty &amp; Counties neerunto adioyning, as alſo to the publique good of the Common-wealth, Wée were then graciouſly pleaſed vpon further Petition made vnto Vs, to grant our Letters Patents vnder our great Seale of <hi>England,</hi> dated the Twelueth day of July in the fiftéenth yéere of our Raign of <hi>England, &amp;c.</hi> for a Collection to be made within Eight Counties of this our Realme, with ſpeciall requeſt &amp; deſire to all Archbiſhops, Earles, Biſhops, Barons, Baronets, Knights, and Gentlemen, not onely themſelues to be bountifull &amp; liberall in their contributions, but alſo to the vttermoſt of their power to moue all other eurlouing ſubiects according to their ability to doe the like. NOW for aſ much as wee haue been lately certified aſwell by a Certificate from our foreſaid right truſty and wel-beloued Coſen <hi>Francis</hi> Earle of <hi>Rutland,</hi> as alſo by another Certificate from diuers Juſtices of Peace néere vnto our foreſaid Citty of <hi>Lincolne,</hi> that the Cittizens there haue of themſelues to the vttermoſt of their ability, with the helpe of the foreſaid contributions (wherwith Wée were much contented) diſburſed about this good worke the Sum of One Thouſand Marks, which hath well aduanced the ſame and brought it into a good forwardnes, yet Wée are informed that vnleſſe ſome further courſe bee forthwith taken for preſent ſupply of moneys to procéed therin, the foreſaid worke now ſtandeth at a ſtay &amp; muſt ſhortly periſh, and the charge &amp; coſt already beſtowed bée vtterly loſt, notwithſtanding our great care &amp; deſire we haue had from the beginning of the proſperity of this buſineſſe, to which we gaue beginning, and cannot now but much cheriſh &amp; tender the progreſſe &amp; perfection therof; And therefore Wée haue thought good not only to renew our foreſaid Letters Patents for a generall Collection to be made throughout our Realme of <hi>England,</hi> where no former Collection hath béene, but alſo to direct our Letters Signe Manuall to all our Judges of Aſſize, requiring them &amp; euery of them within their ſeuerall Circuits, aſwell to deale effectually with our high Sheriffes &amp; Juſtices of Peace; not only themſelues to contriibute liberally héerein, but by their examples &amp; beſt indeauours to excite the Gentry, and all other our louing Subiects within any Citty, Towne corporate, priuiledged or other pla<g ref="char:EOLhyphen"/>ces whatſoeuer throughout our Realme of <hi>England,</hi> to extend their liberall contribution in like maner towards the finiſhing of this good worke. And alſo to take further order y<hi rend="sup">t</hi> Con<g ref="char:EOLhyphen"/>ſtables, Headboroughs &amp; other inferiour Officers &amp; Miniſters within their precincts or Pariſhes, ſhall make ſpéedy Collection of euery Inhabitant or other ſufficient perſon within their Pariſh, and to deliuer the Sum &amp; Sums of money ſo collected, vnto our true &amp; faithfull Subiect <hi>Robert Morecroft</hi> Alderman of our ſaid Citty of <hi>Lincolne,</hi> or his Deputy or Depu<g ref="char:EOLhyphen"/>ties the bearer or bearers héerof of whom we expect a particular Accompt. And Wée will &amp; command all Parſons, Vicars, &amp; Curats, for the better ſtirring vp of a charitable deuotion, de<g ref="char:EOLhyphen"/>liberately to publiſh &amp; declare the Tenor of theſe our Letters Patents, or Briefe thereof, vnto our ſaid Subiects, Exhorting &amp; perſwading them to extend their liberall contributions in ſo good and charitable a worke. And laſtly Wée will you &amp; euery of you that are appointed Collectors heerein, that there be a ſufficient booke kept by you, wherin you ſhall ſet downe euery particular Sum &amp; Sums by you collected of any Nobleman, Knight, or man of worth &amp; quality, or in any Church or ciuill ſociety that giue &amp; contribute héereunto, whereby we may be certified how much our ſaid Subiects ſhall regard our pleaſure &amp; requeſt in this behalfe. Any Statute, Law Ordinance, or prouiſion héertofore made to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding. IN witneſſe whereof, wée haue cauſed theſe our Letters to bée made Patents for the ſpace of One whole yeare next after the date heerof to endure.</p>
+               <closer>
+                  <dateline>Witnes our ſelfe at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> 
+                     <date>the Nyneténth day of February, in the Sixtéenth yeare of our Raigne of <hi>England, France,</hi> and <hi>Ireland,</hi> and of <hi>Scotland</hi> the Two &amp; Fiftieth.</date>
+                  </dateline> 
+                  <signed>
+                     <figure>
+                        <figDesc>oak leaves, badge of the House of Stuart</figDesc>
+                     </figure> Steward</signed> God ſaue the King</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Thomas Purfoot.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
